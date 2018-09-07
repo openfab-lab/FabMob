@@ -1,4 +1,4 @@
-#### FAQ module 3D printing
+## FAQ module 3D printing
 ### Which 3D printer are we using ? 
 3D printer Fabrikator mini II
 https://hobbyking.com/en_us/fabrikator-mini-ii.html?___store=en_us
