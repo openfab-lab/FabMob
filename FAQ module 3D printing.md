@@ -5,20 +5,35 @@ https://hobbyking.com/en_us/fabrikator-mini-ii.html?___store=en_us
 
 Specs:
 Nozzle diameter: **0.4 mm (0.015 in)**
+
 Positioning Precision: **XY 11 microns (0.0004 in), Z 2.5 micron (0.0001 in)**
+
 Layer Resolution: **100 microns (0.0039 in)**
+
 Input Power: 100-240V, Max:80W
+
 Mains plug: AU type
+
 Nozzle heating: **Max 250℃**
+
 Filaments: **1.75mm diameter PLA, ABS, PETG**
+
 Interface: Memory card, USB and wireless network
+
 Build Surface: Heated aluminium bed with PEI coating
+
 Supported File: **STL, OBJ/G-Code**
+
 OS: Windows10, Mac OS X, Linux
+
 Certificates: CE, ROHS, FCC, ISO 9001:2008
+
 Product Dimensions: 172 x 183 x 270mm
+
 Build Volume: **100 x 100 x 100mm**
+
 Shipping Box: 220 x 220 x 320mm
+
 
 ### What is inside ?
 
