@@ -26,6 +26,6 @@ Branchez-le sur secteur pendant une bonne 10 min.
 
 Please, roll cables the right way.  
 What is the right way?  
-https://youtu.be/B2SUoAvGxVs
-We can practise at the office ;)
+https://youtu.be/B2SUoAvGxVs  
+We can practise that at the office ;)
 
