@@ -1,6 +1,7 @@
 ## FAQ module 3D printing
 ### How to avoid and repair a clogged nozzel ?
 https://www.youtube.com/watch?v=g8uvh6kvr54
+ou bien https://youtu.be/g8uvh6kvr54?t=171 
 - Don't overheat > pull out filament after job and turn off the heating
 - Clean by cold pull > heat, push the filament manually, cool down to 120°C, pull it out cold.
 
