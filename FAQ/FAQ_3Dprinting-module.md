@@ -1,4 +1,28 @@
 ## FAQ module 3D printing
+### What if the print gets loosened from the bed (le print décolle)
+There are two main causes :
+- The callibration is not right
+- The tape is not good
+
+If the calibration is not right, you can calibrate the fabricator with the screws on teh bed. Use the allen keys to turn right to move the bed down (the head up), and left to move the bed up (the head down). Use a peace of paper (post-it for example) to rest the distance to the bed. It shoud be giving a little resistance. While printing, you can adjust the Z hight with MatterControl in 'CONTROLS'. Click 0.02 and then Z+ or Z-.
+**Note in the notebook that you calibrated the bed**.
+
+If the tape is not good, replace the tape with blue tape. Be carefull to cut the edges and not to fold it unter the bed. If the tape is too damaged, it is good to replace it.
+
+Other solutions are :
+- heating the bed to 50 à 60° (SETTINGS/Filament/Temperatures)
+- add a raft that is touching (SETTINGS/General/RaftPriming)
+- put some stick glue on the printer bed
+
+
+### How to change the filament ?
+It is nice to remove the filament when done with the session. You will need to do this manually.
+
+Fist go to CONTROLS and heat the head to 215°. Do a purge, extrude 10mm (E-). When done, cool down again to 120 à 140° to pull the filament out. To pull, push the lever at the motor and pull gently the filament out. This is called a cold pull. It helps to remove impurities in the head. Put the end of the filament in one of the holes on the bobine, it will prevent entangling. **Write in the otebook when there is no filament left.** Also be kind and send a message to contact@openfab.be.
+
+To put the filament back, simply heat the head to 210°. Cut the filament end so it has a sharp point. This will help the filament go smooth in the tube. You can gently bent the filament so the end is straigtend. Then introduce the filament in the feeder while pushing the lever.
+
+
 ### How to avoid and repair a clogged nozzel ?
 https://www.youtube.com/watch?v=g8uvh6kvr54
 ou bien https://youtu.be/g8uvh6kvr54?t=171 
@@ -18,8 +42,6 @@ Si après tout ça, ou si le fil de cuivre ne passe ps du tout, alors il faut d�
 ! Opération à faire à chaud aussi. Le métal se dilate et il faut bien revisser à chaud , sans serrer très fort quand même, mais à chaud pour éviter des fuites lors du print. Ce qui arrive souvent à ceux qui assemble leur extrudeur à froid.
 Y a plein de vidéo sur le net. Et c'est pareil pour tout les modèles donc peu importe de trouver absolument l'info pour la fabrikator.
 
-### How to change the filament ?
-(to complete)
 
 ### Which 3D printer are we using ? 
 3D printer Fabrikator mini II
