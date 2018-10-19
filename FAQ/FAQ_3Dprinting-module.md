@@ -1,4 +1,15 @@
 ## FAQ module 3D printing
+
+
+
+### What if the printer won't connect ?
+Try the following sequence :
+1. Connect the USB cable
+2. Open the software Matter Control
+3. Power the printer on
+
+If the printer still doesn't, you can help by adjusting the settings. Got to **Settings & Control**/**Settings**/**Printer**/**Connection**. There you can chose the USB serial port to which to connect.  
+
 ### What if the print gets loosened from the bed (le print décolle)
 There are two main causes :
 - The callibration is not right
