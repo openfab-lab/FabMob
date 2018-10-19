@@ -1,7 +1,23 @@
+## Check-in
+These are the checks you always need to do before starting the workshop !
+
+1. Check if all the material is there. Look at [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-is-inside-)
+2. Set up all the material safely. Load the filament, see [How to change the filament ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-change-the-filament-).
+3. Perform a first test. Check if the bed is well calibrated, see  
+
+## Check-out
+4. Unload the filament see [How to change the filament ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-change-the-filament-).
+5. Check if all the material is back. It is important to check if all the material is well packed in the cases. 
+
+**Note : if you remarked anything special, please note it in the logbook !**
+
+
+
 ## FAQ module 3D printing
 
 1. [What if the printer won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-printer-wont-connect-)
 2. [What if the print gets loosened from the bed (le print décolle)](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-print-gets-loosened-from-the-bed-le-print-d%C3%A9colle)
+3. [How to calibrate the bed ?]()
 3. [How to change the filament ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-change-the-filament-)
 4. [How to avoid and repair a clogged nozzel ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-avoid-and-repair-a-clogged-nozzel-)
 5. [Which 3D printer are we using ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#which-3d-printer-are-we-using-)
@@ -20,11 +36,8 @@ If the printer still doesn't, you can help by adjusting the settings. Got to **S
 
 ### What if the print gets loosened from the bed (le print décolle)
 There are two main causes :
-- The callibration is not right
+- The callibration is not right, see 
 - The tape is not good
-
-If the calibration is not right, you can calibrate the fabricator with the screws on teh bed. Use the allen keys to turn right to move the bed down (the head up), and left to move the bed up (the head down). Use a peace of paper (post-it for example) to rest the distance to the bed. It shoud be giving a little resistance. While printing, you can adjust the Z hight with MatterControl in 'CONTROLS'. Click 0.02 and then Z+ or Z-.
-**Note in the notebook that you calibrated the bed**.
 
 If the tape is not good, replace the tape with blue tape. Be carefull to cut the edges and not to fold it unter the bed. If the tape is too damaged, it is good to replace it.
 
@@ -32,6 +45,13 @@ Other solutions are :
 - heating the bed to 50 à 60° (SETTINGS/Filament/Temperatures)
 - add a raft that is touching (SETTINGS/General/RaftPriming)
 - put some stick glue on the printer bed
+
+## How to calibrate the bed ?
+If the calibration is not right, you can calibrate the fabricator with the screws on the bed. Use the allen keys to turn right to move the bed down (the head up), and left to move the bed up (the head down). Use a peace of paper (post-it for example) to test the distance to the bed. It shoud be giving a little resistance. Test the distance in the four corners of the bed. In MatterControl go to **Settings & Controls**/**CONTROLS**/**Movement** to move the head to the corners of the bed. You can also do the callibration while printing the *Calibration - Box*.
+
+While printing, you can adjust the Z hight with MatterControl in 'CONTROLS'. Click 0.02 and then Z+ or Z-.
+
+**Note in the notebook that you calibrated the bed**.
 
 
 ### How to change the filament ?
