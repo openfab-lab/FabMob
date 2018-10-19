@@ -6,6 +6,8 @@ These are the checks you always need to do before starting the workshop !
 3. **Put on some protection glasses.**
 4. Perform a first test. Don't forget to put the laser on as last. 
 
+*Note : if you want to share the drawings with the participants of the workshop, then collect the models at the end of the workshop, before shutting down the computers.*
+
 ## Check-out
 5. Check if all the material is back. It is important to check if all the material is well packed in the cases. 
 
