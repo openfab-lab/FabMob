@@ -21,7 +21,7 @@ login : fabmob1@ciklic.be
 pass : fabmob1!
 Replace the number 1 with the pc number.
 
-**If the login doesn't work, please not it in the logbook !**
+**If the login doesn't work, please note it in the logbook !**
 
 fabmob1@ciklic.be - fabmob1!
 fabmob2@ciklic.be - fabmob2!
@@ -40,7 +40,7 @@ fabmob12@ciklic.be - fabmob12!
 ### What if the computer doesn't start up ?
 Push the on/off button for 14 seconds then push it one more time. This should reboot the computer.
 
-If this doesn't work, plug the computer for 10 min at the power and try again. **If the computer doens't start at all, note int in the logbook !**
+If this doesn't work, plug the computer for 10 min at the power and try again. **If the computer doens't start at all, note it in the logbook !**
 
 The problem of starting up is less frequent when the computer in not put in hibride mode ie the screen closed. Avoid closing the screen without shutting down the computer.
 
