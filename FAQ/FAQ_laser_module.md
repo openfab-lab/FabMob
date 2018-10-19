@@ -1,27 +1,34 @@
 ## Check-in
 These are the checks you always need to do before starting the workshop !
 
-1. Check if all the material is there.
+1. Check if all the material is there. Look at [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
+2. Set up all the material safely. Protect the table !
+3. **Put on some protection glasses.**
+4. Perform a first test. Don't forget to put the laser on as last. 
 
+## Check-out
+5. Check if all the material is back. It is important to check if all the material is well packed in the cases. 
+
+**Note : if you remarked anything special, please note it in the logbook !**
 
 ## FAQ laser engraving module
 
-1. [What if the laser won't connect ?]()
-2. [How to put the focal right ? ]()
-3. [What if the laser won't activate ?]()
-4. [What is inside ?]()
-5. []()
-6. []()
+1. [What if the laser won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-connect-)
+2. [How to put the focal right ? ](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#how-to-put-the-focal-right-)
+3. [What if the laser won't activate ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-activate-)
+4. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
 
 
 
 ### What if the laser won't connect ?
+Pay attention to put the laser on as last step. **Otherwise the laser will activated without asking.** 
+
 Try the following sequence :
 
 1. Connect the USB cable
 2. Open the software LaserWeb 
 3. Connect
-4. Power the printer on
+4. **Power the printer on**
 
 If the laser still doesn't connect then unplug the power cable and wait for 5min. It is possible that a static charge prevents the connection. 
 
