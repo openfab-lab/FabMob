@@ -1,5 +1,12 @@
 ## FAQ module 3D printing
 
+1. [What if the printer won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-printer-wont-connect-)
+2. [What if the print gets loosened from the bed (le print décolle)](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-print-gets-loosened-from-the-bed-le-print-d%C3%A9colle)
+3. [How to change the filament ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-change-the-filament-)
+4. [How to avoid and repair a clogged nozzel ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-avoid-and-repair-a-clogged-nozzel-)
+5. [Which 3D printer are we using ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#which-3d-printer-are-we-using-)
+6. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-is-inside-)
+
 
 
 ### What if the printer won't connect ?
