@@ -14,6 +14,7 @@ Try the following sequence :
 1. Connect the USB cable
 2. Open the software Matter Control
 3. Power the printer on
+4. Connect
 
 If the printer still doesn't, you can help by adjusting the settings. Got to **Settings & Control**/**Settings**/**Printer**/**Connection**. There you can chose the USB serial port to which to connect.  
 
