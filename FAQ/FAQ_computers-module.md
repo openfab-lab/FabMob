@@ -1,4 +1,11 @@
 ## FAQ module computers
+
+1. [How to log in ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#how-to-log-in-)
+2. [TinkerCAD login](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#tinkercad-login)
+3. [What if the computer doesn't start up ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-if-the-computer-doesnt-start-up-)
+4. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-is-inside-)
+
+
 ### How to log in ?
 Mot de passe
 c'est le même mot de passe qu'au OpenFab.
