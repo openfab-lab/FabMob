@@ -1,3 +1,18 @@
+## Check-in
+These are the checks you always need to do before starting the workshop !
+
+1. Check if all the material is there. Look at [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-is-inside-)
+2. Set up all the material safely. Put the computers to charge.
+3. Log in to the computers (pass defensedefumer) and start the software.
+
+*Note : if you want to share the creations with the participants of the workshop, then collect the models at the end of the workshop, before shutting down the computers.*
+
+## Check-out
+4. Shut down the computers. 
+5. Check if all the material is back. It is important to check if all the material is well packed in the cases. 
+
+**Note : if you remarked anything special, please note it in the logbook !**
+
 ## FAQ module computers
 
 1. [How to log in ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#how-to-log-in-)
