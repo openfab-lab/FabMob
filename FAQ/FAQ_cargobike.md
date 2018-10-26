@@ -15,8 +15,6 @@ These are the checks you always need to do before starting the trip !
 
 Note : Let us know if there is anything special, thanks ! 
 
-
-
-
-
+![alt text](https://github.com/openfab-lab/FabMob/blob/master/FAQ/IMG_3097.JPG)
+![alt text](https://github.com/openfab-lab/FabMob/blob/master/FAQ/IMG_3099.JPG)
 
