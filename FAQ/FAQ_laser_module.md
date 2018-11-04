@@ -15,7 +15,7 @@ These are the checks you always need to do before starting the workshop !
 
 ## FAQ laser engraving module
 
-1. [What are the laser settings ?]()
+1. [What are the laser settings ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-are-the-laser-settings-)
 2. [What if the laser won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-connect-)
 3. [How to put the focal right ? ](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#how-to-put-the-focal-right-)
 4. [What if the laser won't activate ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-activate-)
