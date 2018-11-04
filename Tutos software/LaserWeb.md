@@ -18,8 +18,25 @@ The drawing should be in .svg.
 
 
 ### 3. Adjust the settings to your needs
-The laser engraver is already in the software. 
+You can find the Laserweb workspace on the desktop. It has the recommended settings encoded.
 
+
+Laser paper 150g
+
+100% 2500mm/min
+unclear line
+
+100% 2000mm/min
+fine line
+
+100% 1500mm/min
+fine uniform line, not cutting through
+
+100% 1000mm/min
+nicely through
+
+100% 500mm/min
+too much power
 
 
 ### 4. Engrave
