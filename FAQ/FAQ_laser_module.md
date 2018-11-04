@@ -15,11 +15,32 @@ These are the checks you always need to do before starting the workshop !
 
 ## FAQ laser engraving module
 
-1. [What if the laser won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-connect-)
-2. [How to put the focal right ? ](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#how-to-put-the-focal-right-)
-3. [What if the laser won't activate ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-activate-)
-4. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
+1. [What are the laser settings ?]()
+2. [What if the laser won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-connect-)
+3. [How to put the focal right ? ](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#how-to-put-the-focal-right-)
+4. [What if the laser won't activate ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-activate-)
+5. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
 
+
+### What are the laser settings ?
+You can find the Laserweb workspace on the desktop. It has the recommended settings encoded.
+
+Laser paper 150g
+
+100% 2500mm/min
+unclear line
+
+100% 2000mm/min
+fine line
+
+100% 1500mm/min
+fine uniform line, not cutting through
+
+100% 1000mm/min
+nicely through
+
+100% 500mm/min
+too much power
 
 
 ### What if the laser won't connect ?
