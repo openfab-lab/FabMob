@@ -10,8 +10,7 @@ Animateur accompagnant = 200€/jour, 100€/1/2 jour
 40€/h
 
 ### Chèques Fablab
-A confirmer...
-
+Minimum pour 2 enfants...
 
 
 ## Modes de facturations
