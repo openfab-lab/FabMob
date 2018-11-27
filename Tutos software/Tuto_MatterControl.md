@@ -1,16 +1,21 @@
 ## What can you do with MatterControl ?
-Matter Control is an open source source software that allow to pilote a 3D printer. It has some advantages over more classic software like Cura. Firstly you can control the printer in real time, during teh job. Secondly the printer settings can be synchronised with an online account.
+Matter Control is an open source source software that allow to pilote a 3D printer. It has some advantages over more classic software like Cura. Firstly you can control the printer in real time, during the job. Secondly the printer settings can be synchronised with an online account.
 
 Find the project here https://github.com/MatterHackers/MatterControl
 
-Printing with MAtter Control happens in a few steps that we will detail further on.
-[1. Connect the printer]()
-[2. Import the 3D model and edit if needed]()
-[3. Adjust the settings to your needs]()
-[4. Print and control the printing process]()
+Printing with Matter Control happens in a few steps that we will detail further on.
+- [1. Connect the printer](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md#1-connect-the-printer)
+- [2. Import the 3D model and edit if needed](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md#2-import-the-3d-model)
+- [3. Adjust the settings to your needs](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md#3-adjust-the-settings)
+- [4. Print and control the printing process](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md#4-print-and-control-the-printing-process)
+
+![](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControlscreen.PNG)
+
 
 ### 1. Connect the printer
 The printer is ready in the software. You can connect with the button **Connect** and follow the instructions if asked. 
+
+Select the right printer profile at the top next to connect.
 
 If the printer won't connect, see [What if the printer won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-printer-wont-connect-)
 
@@ -23,6 +28,8 @@ You can also preview the printing at the right. Click right at the top on **LAYE
 
 ### 3. Adjust the settings
 Go to **Settings & Controls** to adjust the settings to your needs. You have all the options in **SETTINGS**. 
+Check in SETTINGS/GENERAL/Raft Priming if you are ok with the Skirt (usually we put 5mm touching). 
+Check in SETTINGS/GENERAL/Support Material if the support is activated or not.
 
 If the setting is put in **blue** it means it is changed in comparison to the original settings.
 
