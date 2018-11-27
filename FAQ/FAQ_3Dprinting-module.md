@@ -17,7 +17,7 @@ These are the checks you always need to do before starting the workshop !
 
 ## FAQ module 3D printing
 
-0. How to start a 3D print ?
+0. [How to start a 3D print ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-start-a-3d-print-)
 1. [What if the printer won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-printer-wont-connect-)
 2. [What if the print gets loosened from the bed (le print décolle)](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-print-gets-loosened-from-the-bed-le-print-d%C3%A9colle)
 3. [How to calibrate the bed ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-calibrate-the-bed-)
