@@ -4,6 +4,8 @@
 - The young people get to learn the universe of the fablabs
 - They create a 3D model that they can edit later on
 
+![](https://github.com/openfab-lab/FabMob/blob/master/Pedagogy/ibra%20et%20louka.png)
+
 ### Flow of the workshop
 h-2.5 Introduction of the workshop and presentation of the Mobile Fablab project
 - Inform about the planning of the day, get to know the class and introduce yourselves as animators. Be clear that there will be no 3D printing of their desing today.
@@ -11,7 +13,7 @@ h-2.5 Introduction of the workshop and presentation of the Mobile Fablab project
 
 h-2 Preparing the computers and discovering the 3D printer in little groups 
 - Prepare the computers and ask to make groups of 2. Log the participants on the TinkerCAD accounts(www.tinkercad.com) (see [FAQ_computers-module](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#tinkercad-login))
-- Demonstrate the 3D printing with the Fabrikator 3D printer and MatterControl (see [FAQ_3Dprinting-module]https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-start-a-3d-print-))
+- Demonstrate the 3D printing with the Fabrikator 3D printer and MatterControl (see [FAQ_3Dprinting-module](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-start-a-3d-print-))
 
 h-1.5 Discovering TinkerCAD and introducing the contest
 - Show one action at a time and asking to repeat. Ask what they can observe.
