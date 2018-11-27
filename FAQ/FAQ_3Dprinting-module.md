@@ -35,6 +35,7 @@ These are the checks you always need to do before starting the workshop !
 5. Check in SETTINGS/GENERAL/Support Material if the support is activated or not.
 6. Click PRINT and check if the first layer is sticking well to the bed.
 
+Else see [Tuto_MatterControl](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/Tuto_MatterControl.md)
 
 ### What if the printer won't connect ?
 Try the following sequence :
