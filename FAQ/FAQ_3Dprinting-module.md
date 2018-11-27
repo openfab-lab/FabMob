@@ -17,6 +17,7 @@ These are the checks you always need to do before starting the workshop !
 
 ## FAQ module 3D printing
 
+0. How to start a 3D print ?
 1. [What if the printer won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-printer-wont-connect-)
 2. [What if the print gets loosened from the bed (le print décolle)](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-print-gets-loosened-from-the-bed-le-print-d%C3%A9colle)
 3. [How to calibrate the bed ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-calibrate-the-bed-)
@@ -25,6 +26,14 @@ These are the checks you always need to do before starting the workshop !
 5. [Which 3D printer are we using ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#which-3d-printer-are-we-using-)
 6. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-is-inside-)
 
+
+### How to start a 3D print ?
+1. On the computer, launch MatterControl. 
+2. Select the right printer profile at the top next to connect.
+3. Pick CALIBRATION BOX or an other example and click SETTINGS & CONTROLS. 
+4. Check in SETTINGS/GENERAL/Raft Priming if you are ok with the Skirt (usually we put 5mm touching). 
+5. Check in SETTINGS/GENERAL/Support Material if the support is activated or not.
+6. Click PRINT and check if the first layer is sticking well to the bed.
 
 
 ### What if the printer won't connect ?
