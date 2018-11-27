@@ -41,8 +41,10 @@ To change the filament, see [How to change the filament ?](https://github.com/op
 If you are ready with the settings, you can click **PRINT**. It is important to check if the first layer is printing well. 
 
 During the printing, you can control the printer. Go to **CONTROLS**. 
-- You can change the temperature of the extruder and the bed. 
-- You can change the Z offset. This is interesting if the first layer is not thick enough. 
-- You can also lower or higher the speed of printing and the exstrusion. This is interesting if there is not enough filament coming out of the head.
+- You can change the temperature of the extruder and the bed. Normally we print at 205°C and 60°C for the bed. *N.B. The printer n2 prints at 220°C !)*
+- You can change the Z offset by 0.1 at the time. This is interesting if the first layer is not thick enough. 
+- You can also lower or higher the speed of printing and the extrusion. This is interesting if there is not enough filament coming out of the head.
 
 If the filament won't stick to the bed, see [What if the print gets loosened from the bed (le print décolle)](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#what-if-the-print-gets-loosened-from-the-bed-le-print-d%C3%A9colle)
+
+If the bed is not calibrated, see [How to calibrate the bed ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md#how-to-calibrate-the-bed-).
