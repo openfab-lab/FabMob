@@ -11,7 +11,7 @@ You can find the tutorials for the software for the machines :
 - [tuto for 3D printing with MatterControl](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md)
 - [tuto for laser engraving with LaserWeb](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/LaserWeb.md)
 
-For more spcific questions, contact us at contact@openfab.be
+For more specific questions, contact us at contact@openfab.be
 
 Enjoy your workshop !
 
