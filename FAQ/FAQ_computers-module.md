@@ -62,14 +62,14 @@ The problem of starting up is less frequent when the computer in not put in hibr
 
 
 ### What apps are inside ?
-[mBlock 3](http://www.mblock.cc/software/mblock/mblock3/)
-[Inkscape](https://inkscape.org/)
-[SculptGL(https://stephaneginier.com/archive/standalone/)
-[Arduino IDE](https://www.arduino.cc/en/Main/Software)
-[Laserweb4](https://github.com/LaserWeb/LaserWeb4-Binaries/releases)
-[MatterHackers](https://github.com/MatterHackers/MatterControl)
-[MeshMixer](http://www.meshmixer.com/download.html)
-[Reconstruct Me](http://reconstructme.net/)
+- [mBlock 3](http://www.mblock.cc/software/mblock/mblock3/)
+- [Inkscape](https://inkscape.org/)
+- [SculptGL](https://stephaneginier.com/archive/standalone/)
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+- [Laserweb4](https://github.com/LaserWeb/LaserWeb4-Binaries/releases)
+- [MatterHackers](https://github.com/MatterHackers/MatterControl)
+- [MeshMixer](http://www.meshmixer.com/download.html)
+- [Reconstruct Me](http://reconstructme.net/)
 
 
 ### What is inside ?
