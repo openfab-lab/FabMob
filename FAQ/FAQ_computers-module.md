@@ -18,7 +18,8 @@ These are the checks you always need to do before starting the workshop !
 1. [How to log in ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#how-to-log-in-)
 2. [TinkerCAD login](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#tinkercad-login)
 3. [What if the computer doesn't start up ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-if-the-computer-doesnt-start-up-)
-4. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-is-inside-)
+4. [What apps are inside ?]
+5. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md#what-is-inside-)
 
 
 ### How to log in ?
@@ -58,6 +59,20 @@ Push the on/off button for 14 seconds then push it one more time. This should re
 If this doesn't work, plug the computer for 10 min at the power and try again. **If the computer doens't start at all, note it in the logbook !**
 
 The problem of starting up is less frequent when the computer in not put in hibride mode ie the screen closed. Avoid closing the screen without shutting down the computer.
+
+
+### What apps are inside ?
+mBlock 3 http://www.mblock.cc/software/mblock/mblock3/
+Inkscape https://inkscape.org/
+SculptGL https://stephaneginier.com/archive/standalone/
+Arduino IDE https://www.arduino.cc/en/Main/Software
+Laserweb4
+https://github.com/LaserWeb/LaserWeb4-Binaries/releases
+MatterHackers
+https://github.com/MatterHackers/MatterControl
+MeshMixer http://www.meshmixer.com/download.html
+Reconstruct Me http://reconstructme.net/
+
 
 ### What is inside ?
 ![img_2122](https://user-images.githubusercontent.com/12049360/40847385-850cdac8-65bc-11e8-8966-3a63422befb7.png)
