@@ -2,15 +2,19 @@
 
 
 #### Ou puis-je m'inscrire ?               
-Par ici : 
+Par ici : https://framaforms.org/inscription-atelier-fablab-1548855955
 
 #### Quel est l’âge minimum ?               
 L’atelier est proposé pour les 10-18 ans.
+
+#### De quelle heure l'atelier débute ?
+L'atelier se déroule de 14h à 16h30.
 
 #### Le matériel est-il fourni ?            
 Le matériel pour les ateliers est fourni.
 
 #### Comment venir à OpenFab ?        
+Adresse au 274 Avenue de la Couronne, 1040 Ixelles
 En transport en commun : à 5 minutes à pied de l’arrêt Germoir du tram 81 et à 5 minutes à pied de l’arrêt Gare d’Etterbeek du tram 25 et 7
 En voiture : se garer sur l’avenue de la Couronne
 
