@@ -7,7 +7,10 @@ Par ici : https://framaforms.org/inscription-atelier-fablab-1548855955
 #### Quel est l’âge minimum ?               
 L’atelier est proposé pour les 10-18 ans.
 
-#### De quelle heure l'atelier débute ?
+#### Mon enfant à 9 ans, peut il venir ?
+Nous pouvons faire une exception, plus jeune non.
+
+#### A quelle heure l'atelier débute ?
 L'atelier se déroule de 14h à 16h30.
 
 #### Le matériel est-il fourni ?            
@@ -39,3 +42,6 @@ Non, l’atelier est pour les débutants ou experts
 #### J’ai déjà un projet, puis-je participer à l’atelier pour le faire ?            
 A priori l’objectif de l’atelier est de donner les bases dans l’utilisation d’une machine.
 Pour un projet personnel, il est préférable de venir de 16h30 à 19h à la permanence
+
+#### J'ai encore des questions...
+contact@openfab.be
