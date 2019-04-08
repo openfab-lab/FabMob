@@ -30,6 +30,12 @@ C'est 40€/h, la seule condition est d’avoir minimum 2 enfants/animateur
 
 ## FACTURATION
 
+Syntonie ASBL
+TVA: BE0844983628
+23 rue de l'etang
+5575 Willerzie
+Belgium
+
 Via la Smart, tu as deux options :           
 #### Option 1 : par ton activité              
 business as usual : devis à envoyer à Syntonie puis prestation à envoyer à Smart. 
