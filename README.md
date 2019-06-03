@@ -12,7 +12,7 @@ You can find the tutorials for the software for the machines :
 - [tuto for 3D printing with MatterControl](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/MatterControl.md)
 - [tuto for laser engraving with LaserWeb](https://github.com/openfab-lab/FabMob/blob/master/Tutos%20software/LaserWeb.md)
 
-Don't forget the [checkout form](https://framaforms.org/checkout-fabvelo-1549300778) !
+**Don't forget the [checkout form](https://framaforms.org/checkout-fabvelo-1549300778) !
 
 For more specific questions, contact us at contact@openfab.be
 
