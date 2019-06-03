@@ -1,0 +1,31 @@
+## Check-in
+These are the checks you always need to do before starting the workshop !
+
+1. Check if all the material is there. Look at [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
+2. Set up all the material safely. Protect the table !
+
+Check the wikifab for some tutorials : 
+[https://wikifab.org/wiki/Petit_bras_robotique](https://wikifab.org/wiki/Petit_bras_robotique)
+## Check-out
+5. Check if all the material is back. It is important to check if all the material is well packed in the cases. 
+
+**Note : if you remarked anything special, please note it in the logbook !**
+
+## FAQ laser engraving module
+
+1. [What are the laser settings ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-are-the-laser-settings-)
+2. [What if the laser won't connect ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-connect-)
+3. [How to put the focal right ? ](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#how-to-put-the-focal-right-)
+4. [What if the laser won't activate ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-if-the-laser-wont-activate-)
+5. [What is inside ?](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_laser_module.md#what-is-inside-)
+
+
+### What are the laser settings ?
+You can find the Laserweb workspace on the desktop. It has the recommended settings encoded.
+
+Laser paper 150g
+
+100% 2500mm/min
+unclear line
+
+100% 2000mm/min
