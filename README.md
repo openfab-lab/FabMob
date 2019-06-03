@@ -18,4 +18,5 @@ For more specific questions, contact us at contact@openfab.be
 
 Enjoy your workshop !
 
-![alt text](https://github.com/openfab-lab/FabMob/blob/master/FAQ/fabvelo_Vicky.jpg)
+![alt text](https://github.com/openfab-lab/FabMob/blob/master/FAQ/fabvelo_Vicky.jpg | width=400)
+
