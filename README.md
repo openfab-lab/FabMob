@@ -20,7 +20,7 @@ Enjoy your workshop !
 
 <img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/fabvelo_Vicky.jpg" width="500">
 
-<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/bullitt1.JPG" width="250">
-<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/bullitt2.JPG" width="250">
-<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/triporteur1.JPG" width="250">
-<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/triporteur2.JPG" width="250">
+<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/bullitt1.JPG" width="500">
+<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/bullitt2.JPG" width="500">
+<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/triporteur1.JPG" width="500">
+<img src="https://github.com/openfab-lab/FabMob/blob/master/FAQ/triporteur2.JPG" width="500">
