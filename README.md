@@ -2,6 +2,7 @@
 Repository pour le projet FabLab Mobile 2018-2019
 
 You can find the FAQ for the fabvélo and modules :
+- [the flow for the fabvélos](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_flow_fabv%C3%A9lo.md)
 - [the cargo bike](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_cargobike.md)
 - [the computer module](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_computers-module.md)
 - [the 3D printing module](https://github.com/openfab-lab/FabMob/blob/master/FAQ/FAQ_3Dprinting-module.md)
