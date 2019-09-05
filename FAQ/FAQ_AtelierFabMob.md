@@ -16,10 +16,9 @@ L'atelier se déroule de 14h à 16h30.
 #### Le matériel est-il fourni ?            
 Le matériel pour les ateliers est fourni.
 
-#### Comment venir à OpenFab ?        
-Adresse au 274 Avenue de la Couronne, 1040 Ixelles
-En transport en commun : à 5 minutes à pied de l’arrêt Germoir du tram 81 et à 5 minutes à pied de l’arrêt Gare d’Etterbeek du tram 25 et 7
-En voiture : se garer sur l’avenue de la Couronne
+#### Comment venir à l'ACJ ?        
+A l’ACJ, 5 Place de Londres, 1050 Bruxelles
+En transport en commun : à 5 minutes à pied de l’arrêt de métro Trone (https://www.google.com/maps/dir/50.8376494,4.3683123/50.8405587,4.366076/@50.8381767,4.3663075,16.84z/data=!4m2!4m1!3e3)
 
 #### Les parents peuvent-ils participer à l’atelier ?         
 Non mais si ça vous intéresse nous organisons aussi des ateliers adultes, n’hésitez pas à nous demander.
@@ -41,7 +40,6 @@ Non, l’atelier est pour les débutants ou experts
 
 #### J’ai déjà un projet, puis-je participer à l’atelier pour le faire ?            
 A priori l’objectif de l’atelier est de donner les bases dans l’utilisation d’une machine.
-Pour un projet personnel, il est préférable de venir de 16h30 à 19h à la permanence
 
 #### J'ai encore des questions...
 contact@openfab.be
