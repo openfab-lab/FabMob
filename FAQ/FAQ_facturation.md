@@ -11,8 +11,8 @@ Exemple : tu es animateur accompagnant et tu fais 2 animations dans la même jou
 #### Toutes les animations c’est le même prix ?         
 Oui         
 
-#### C’est hors taxe, tva ?         
-C’est tva comprise.         
+#### C’est hors taxe, tva... ?         
+C’est hors tva      
 
 #### Tu veux aider à réparer les machines, les améliorer ?         
 C'est 40€/h
@@ -38,8 +38,8 @@ Belgium
 
 Via la Smart, tu as deux options :           
 #### Option 1 : par ton activité              
-business as usual : devis à envoyer à Syntonie puis prestation à envoyer à Smart. 
-Il faut cocher « Je souhaite que le montant facturé soit de 200,00 € TVA incluse (21%) ».
+business as usual : devis à envoyer à Syntonie puis prestation à envoyer à Smart.
+Faut ajouter la tva, exemple 1 jour animateur principal = 387€ TVAC
         
 #### Option 2 : par formateur associé       
 Chercher "Formation professionnelle et enseignement de matières scolaires" pour avoir 0% de tva.
